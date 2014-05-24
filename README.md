@@ -1,0 +1,4 @@
+EmbeddedLinuxSuite
+==================
+
+Set of C++ classes aimed mostly at small, embedded Linux C++ applications.
